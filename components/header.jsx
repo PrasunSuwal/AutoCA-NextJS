@@ -15,7 +15,7 @@ const Header = () => {
             alt="logo"
             height={60}
             width={200}
-            className="h-12 w-auto object-container"
+            className="h-20 w-auto object-container"
           />
         </Link>
         <div className="flex items-center space-x-4">
